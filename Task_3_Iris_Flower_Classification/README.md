@@ -4,7 +4,7 @@
 Build a machine learning model to classify iris flowers into species: Setosa, Versicolor, Virginica.  
 
 ##  Dataset  
-- **Source**: [Iris Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)  
+- **Source**: [Iris Dataset (Kaggle)](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)  
 - Features: Sepal length, Sepal width, Petal length, Petal width.  
 - Target: Species label.  
 
