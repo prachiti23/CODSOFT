@@ -5,7 +5,7 @@ Predict product sales based on features such as advertising spend and customer s
 
 ##  Dataset  
 - Source: [Sales Prediction Dataset (Kaggle)](https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input)  
-- Features: Advertising budget, product category, customer type, etc.  
+- Features: TV, Radio, Newspaper  
 - Target: Sales  
 
 ##  Approach  
