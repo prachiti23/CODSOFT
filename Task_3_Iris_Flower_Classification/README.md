@@ -1,5 +1,3 @@
-### `Task_3_Iris_Flower_Classification/README.md`
-
 # Task 3: Iris Flower Classification  
 
 ##  Objective  
